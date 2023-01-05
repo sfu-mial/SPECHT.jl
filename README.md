@@ -4,6 +4,8 @@
 
 SPECHT is a Julia implementation of a contrastive weakly supervised object detection and identification method for fluorescence microscopy.
 
+SPECHT was accepted for publication on 28 Dec. 2022 in [PlosOne](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276726)
+
 ## Test results on Circle CI
 [![CircleCI](https://circleci.com/gh/bencardoen/SPECHT.jl/tree/main.svg?style=svg&circle-token=3ff67198cc4b24ba243ae4e90d9af8c4ecb6e6aa)](https://circleci.com/gh/bencardoen/SPECHT.jl/tree/main)
 ## Code Coverage
